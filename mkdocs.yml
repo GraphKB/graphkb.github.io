@@ -1,0 +1,10 @@
+site_name: My Docs
+site_url: https://graphkb.github.io
+
+nav:
+
+  - "index.md"
+
+theme:
+
+  name: material
