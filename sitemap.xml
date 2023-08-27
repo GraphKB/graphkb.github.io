@@ -2,7 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://graphkb.github.io/</loc>
-         <lastmod>2023-08-26</lastmod>
+         <lastmod>2023-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://graphkb.github.io/Basics/intro/</loc>
+         <lastmod>2023-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://graphkb.github.io/Classical%20Algorithms/intro/</loc>
+         <lastmod>2023-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://graphkb.github.io/Privacy/intro/</loc>
+         <lastmod>2023-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://graphkb.github.io/Query%20Processing/intro/</loc>
+         <lastmod>2023-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://graphkb.github.io/Summarization/intro/</loc>
+         <lastmod>2023-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://graphkb.github.io/Useful%20Tricks/intro/</loc>
+         <lastmod>2023-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
